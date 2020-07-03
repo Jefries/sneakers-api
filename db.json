@@ -1,0 +1,84 @@
+{
+    "sneakers": [
+      {
+        "id": 1,
+        "article": "Sepatu Compass x Pot Meets Pop",
+        "description": "Koleksi terbatas yang hanya rilis 334 pasang dan di bandrol dengan harga IDR 518.000, ini ludes dalam waktu 16 detik saja dan sempat membuat website tersebut down dan susah untuk melakukan pembayaran padahal barang sudah ada di dalam cart.",
+        "cover": "https://firebasestorage.googleapis.com/v0/b/sneakers-api-image.appspot.com/o/Compass-untuk-darahkubiru-Pot-meets-Pop.jpg?alt=media&token=b1f096a7-492b-455d-b303-d8acfbfe9ddf",
+        "price": "Rp 518.000",
+        "rating": 5,
+        "merk": "Sepatu Compass",
+        "release_date": "14 Desember 2019"
+      },
+      {
+        "id": 2,
+        "article": "Ventela x NTL Nevertoolavish Hard Thirteen 13 NOIR",
+        "description": "Hasil Kolaborasi Terbaru Ventela Shoes dengan Nevertoolavish, Original Made in Indonesia 100% Karya Anak Bangsa",
+        "cover": "https://firebasestorage.googleapis.com/v0/b/sneakers-api-image.appspot.com/o/Ventela%20x%20Nevertoolavish.jpg?alt=media&token=8ac5c6dc-2746-430f-b831-ee29a7dba500",
+        "price": "Rp 445.000",
+        "rating": 5,
+        "merk": "Ventela",
+        "release_date": "13 Mei 2020"
+      },
+      {
+        "id": 3,
+        "article": "NAH Project x Kevinswork - Don't Keep It To Yourself",
+        "description": "Sebuah kolaborasi antara NAH Project dan Seorang Illustrator Kreatif Kevinswork yang di ciptakan untuk meningkatkan kesadaran akan kesehatan mental.",
+        "cover": "https://firebasestorage.googleapis.com/v0/b/sneakers-api-image.appspot.com/o/NAHproject%20x%20Kevinswork.jpg?alt=media&token=6b54126c-ea0a-4abc-95ae-79470cf209ee",
+        "price": "Rp 599.000",
+        "rating": 5,
+        "merk": "NAH Project",
+        "release_date": "20 April 2020"
+      },
+      {
+        "id": 4,
+        "article": "Word Division Cls Midraw Warheads",
+        "description": "Matterials olive grn-black suede leather ,black cordura canvas water resistant ,and have a long lasting colour for upper, broken white rubber foxing and our orange signature outsole",
+        "cover": "https://firebasestorage.googleapis.com/v0/b/sneakers-api-image.appspot.com/o/word-division.jpg?alt=media&token=2ee8a6f2-9d3e-4a15-886e-d32c8ae580e5",
+        "price": "Rp 425.000",
+        "rating": 5,
+        "merk": "Word Division",
+        "release_date": "2 Juni 2020"
+      },
+      {
+        "id": 5,
+        "article": "Patrobas Equip Black White",
+        "description": "Patrobas Equip merupakan kombinasi dari ciri khas kedua model sepatu mereka yaitu, Ivan dan Hawk. Equip yang berarti (Melengkapi), Saat perilisan perdana kemarin, seluruh artikel Equip habis terjual dalam hitungan menit saja.",
+        "cover": "https://firebasestorage.googleapis.com/v0/b/sneakers-api-image.appspot.com/o/patrobas-equip-low.jpg?alt=media&token=4f191057-cc89-4c61-81a3-dc050831a7f9",
+        "price": "Rp 269.900",
+        "rating": 5,
+        "merk": "Patrobas",
+        "release_date": "16 Maret 2020"
+      },
+      {
+        "id": 6,
+        "article": "Gavin Navy White STZ",
+        "description": "Gavin Navy White Stz! Didesign khusus oleh designer kenamaan Mike Milford loh! Kemana pun kalian pake sepatu ini, bakalan bikin penampilan kalian lebih hits dan tentunya up to date. Yang special pada series ini adalah penambahan logo mike milford di bagian samping sepatu dengan teknik stilasi , dan yg paling penting nih sepatu ini menggunakan insole yg sangat empuk sehingga membuat sepatu ini nyaman banget di pake untuk aktifitas kamu.",
+        "cover": "https://firebasestorage.googleapis.com/v0/b/sneakers-api-image.appspot.com/o/GeoffMax-Gavin.jpg?alt=media&token=d714f1f5-2839-4cae-bf76-aaef9f6a9d4d",
+        "price": "Rp 315.000",
+        "rating": 4,
+        "merk": "Geoff Max",
+        "release_date": "6 Juni 2018"
+      },
+      {
+        "id": 7,
+        "article": "Brodo Vantage Eco Print Edition",
+        "description": "Cerita dibalik perilisan sepatu ini, Melalui gerakan “SIMPUL”, kami menciptakan sepatu dengan menggunakan bahan canvas eco print yang diproduksi oleh masyarakat yang sembuh dari penyakit kusta di Singkawang Kalimantan.⁣",
+        "cover": "https://firebasestorage.googleapis.com/v0/b/sneakers-api-image.appspot.com/o/Brodo-Eco%20Print.jpg?alt=media&token=09f623e4-f48c-494a-8ad9-445124fb4bf1",
+        "price": "Rp 475.000",
+        "rating": 4,
+        "merk": "Brodo",
+        "release_date": "30 Juni 2020"
+      },
+      {
+        "id": 8,
+        "article": "Prime High Striped Indigo",
+        "description": "ekerja sama dengan local artisan yang telah memproduksi kain tenun handwoven yang sudah turun temurun dengan pengalaman pulihan tahun. Rage Guerrilla kali ini merilis varian signaturenya dengan balutan kain handwoven. Kain ini diproduksi alat tenun bukan mesin (atbm). Proses produksinya masih secara tradisional, menggunakan cara-cara lama yang akhirnya memberikan output kain yang semakin unik, unpredictable dan menawan. Selain itu gerakan ini turut menjaga kelestarian budaya tenun Indonesia tidak punah termakan zaman.",
+        "cover": "https://firebasestorage.googleapis.com/v0/b/sneakers-api-image.appspot.com/o/Rage.jpg?alt=media&token=7d235861-60bb-4c7d-b4a3-12350d293047",
+        "price": "Rp 405.000",
+        "rating": 5,
+        "merk": "Rage Guerrilla",
+        "release_date": "28 Mei 2020"
+      }    
+    ]
+  }
