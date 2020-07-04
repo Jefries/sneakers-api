@@ -12,7 +12,7 @@
       },
       {
         "id": 2,
-        "article": "Ventela x NTL Nevertoolavish Hard Thirteen 13 NOIR",
+        "article": "Ventela x NTL Nevertoolavish Hard Thirdteen 13 NOIR",
         "description": "Hasil Kolaborasi Terbaru Ventela Shoes dengan Nevertoolavish, Original Made in Indonesia 100% Karya Anak Bangsa",
         "cover": "https://firebasestorage.googleapis.com/v0/b/sneakers-api-image.appspot.com/o/Ventela%20x%20Nevertoolavish.jpg?alt=media&token=8ac5c6dc-2746-430f-b831-ee29a7dba500",
         "price": "Rp 445.000",
@@ -46,7 +46,7 @@
         "description": "Patrobas Equip merupakan kombinasi dari ciri khas kedua model sepatu mereka yaitu, Ivan dan Hawk. Equip yang berarti (Melengkapi), Saat perilisan perdana kemarin, seluruh artikel Equip habis terjual dalam hitungan menit saja.",
         "cover": "https://firebasestorage.googleapis.com/v0/b/sneakers-api-image.appspot.com/o/patrobas-equip-low.jpg?alt=media&token=4f191057-cc89-4c61-81a3-dc050831a7f9",
         "price": "Rp 269.900",
-        "rating": 5,
+        "rating": 4,
         "merk": "Patrobas",
         "release_date": "16 Maret 2020"
       },
@@ -66,14 +66,14 @@
         "description": "Cerita dibalik perilisan sepatu ini, Melalui gerakan “SIMPUL”, kami menciptakan sepatu dengan menggunakan bahan canvas eco print yang diproduksi oleh masyarakat yang sembuh dari penyakit kusta di Singkawang Kalimantan.⁣",
         "cover": "https://firebasestorage.googleapis.com/v0/b/sneakers-api-image.appspot.com/o/Brodo-Eco%20Print.jpg?alt=media&token=09f623e4-f48c-494a-8ad9-445124fb4bf1",
         "price": "Rp 475.000",
-        "rating": 4,
+        "rating": 5,
         "merk": "Brodo",
         "release_date": "30 Juni 2020"
       },
       {
         "id": 8,
         "article": "Prime High Striped Indigo",
-        "description": "ekerja sama dengan local artisan yang telah memproduksi kain tenun handwoven yang sudah turun temurun dengan pengalaman pulihan tahun. Rage Guerrilla kali ini merilis varian signaturenya dengan balutan kain handwoven. Kain ini diproduksi alat tenun bukan mesin (atbm). Proses produksinya masih secara tradisional, menggunakan cara-cara lama yang akhirnya memberikan output kain yang semakin unik, unpredictable dan menawan. Selain itu gerakan ini turut menjaga kelestarian budaya tenun Indonesia tidak punah termakan zaman.",
+        "description": "Bekerja sama dengan local artisan yang telah memproduksi kain tenun handwoven yang sudah turun temurun dengan pengalaman pulihan tahun. Rage Guerrilla kali ini merilis varian signaturenya dengan balutan kain handwoven. Kain ini diproduksi alat tenun bukan mesin (atbm). Proses produksinya masih secara tradisional, menggunakan cara-cara lama yang akhirnya memberikan output kain yang semakin unik, unpredictable dan menawan. Selain itu gerakan ini turut menjaga kelestarian budaya tenun Indonesia tidak punah termakan zaman.",
         "cover": "https://firebasestorage.googleapis.com/v0/b/sneakers-api-image.appspot.com/o/Rage.jpg?alt=media&token=7d235861-60bb-4c7d-b4a3-12350d293047",
         "price": "Rp 405.000",
         "rating": 5,
